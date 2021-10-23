@@ -10,6 +10,10 @@ In order to perform their analysis, users will be able to input data that will d
 
 ## Results
 
+### Link to UFO Sightings webpage
+
+The depoloyed webpage is accessible at https://dperez2021.github.io/UFOs/
+
 ### Page Layout
 
 The index.html for this module displays the following:
